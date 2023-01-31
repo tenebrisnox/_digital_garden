@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/open/education/the-newbolt-report-1921/"}
 ---
 
+![|150](https://www.garyhollingsbee.com/images/d2plant.png)
+![|150](https://www.garyhollingsbee.com/images/dg2plant.png)
 
 - The Newbolt Report, The Report of the Departmental Committee Appointed by the President of the Board of Education to Inquire into the Position of English in the Educational System of England.
 - BACKGROUND
