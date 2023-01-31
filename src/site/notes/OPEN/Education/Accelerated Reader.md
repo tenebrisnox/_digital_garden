@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/open/education/accelerated-reader/"}
 ---
 
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
+
 https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/accelerated-reader
 
 https://educationendowmentfoundation.org.uk/news/eef-blog-accelerated-reader-what-does-the-research-tell-us
