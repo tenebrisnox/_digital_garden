@@ -3,6 +3,8 @@
 ---
 
 
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
+
 ![image](https://garyhollingsbee.com/blog/wp-content/uploads/2021/05/dialogicteaching.png)
 
 
