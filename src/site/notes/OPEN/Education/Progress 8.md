@@ -3,7 +3,7 @@
 ---
 
 
-![|200](https://www.garyhollingsbee.com/images/dg1seed.png)
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
 
 ## from Twitter
 
