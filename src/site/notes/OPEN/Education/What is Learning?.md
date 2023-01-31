@@ -3,5 +3,6 @@
 ---
 
 
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
 
 "learning is a change in long term memory"
