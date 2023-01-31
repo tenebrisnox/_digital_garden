@@ -3,6 +3,8 @@
 ---
 
 
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
+
 https://www.tes.com/news/classroom-behaviour-vocabulary-link-teenager
 
 TES article
