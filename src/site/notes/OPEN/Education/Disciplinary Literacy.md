@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/open/education/disciplinary-literacy/"}
 ---
 
-
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
 https://educationendowmentfoundation.org.uk/news/eef-blog-what-do-we-mean-by-disciplinary-literacy
 
 Disciplinary Literacy approaches the teaching of Literacy across the curriculum through each subject communicating their subject through its own unique language.
