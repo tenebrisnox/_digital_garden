@@ -3,7 +3,7 @@
 ---
 
 
-
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
 - learning organic, evolving circumstances
 - non-linear, network of multiplicities
 
