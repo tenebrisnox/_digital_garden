@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/open/education/the-history-of-english-teaching/"}
 ---
 
-
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
 Unordered (and incredibly partial; for follow-up):
 
 * Dewey
