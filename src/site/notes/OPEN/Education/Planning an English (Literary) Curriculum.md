@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/open/education/planning-an-english-literary-curriculum/"}
 ---
 
-
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
 
 The KS3 curriculum should enable students to develop a basic understanding of elements like language change and periods in the history of English Literature.
 
