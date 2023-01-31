@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/open/education/current-national-curriculum-in-english/"}
 ---
 
-
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
 
 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/244215/SECONDARY_national_curriculum_-_English2.pdf
 
