@@ -3,7 +3,7 @@
 ---
 
 
-
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
 Marzano (2005) outlines a six-step process that can help students learn critical subject specific vocabulary:
 
 - Teacher gives an informal explanation or example of the new term (gives infomation about the term, creates image, describes mental picture of the word, uses current events and other media to connect term to something familiar, determines prior knowledge of students)
