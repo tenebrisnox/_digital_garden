@@ -3,6 +3,8 @@
 ---
 
 
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
+
 - Daisy Christodoulou, **What is Mastery? The Good, the Bad and the Ugly**:
 -
   >One approach that I have seen encouraged by some assessment recording systems is to place all the statements from a mastery curriculum onto a spreadsheet, and then track whether pupils have met them or not, usually with some kind of three part system – RAG rating or ‘emerging, expected, exceeding’ or similar. This is the worst of all systems! First, these statements will not give you helpful formative information. These curriculum statements are not designed to provide useful feedback either to pupils or teachers. As Dylan Wiliam has said, how useful is it to tell a student that ‘their scientific investigations need to be planned more systematically’? If they had known how to be more systematic, presumably they would have been so in the first place.
