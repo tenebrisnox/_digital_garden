@@ -3,7 +3,7 @@
 ---
 
 
-
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
 ### Learning the Right Way to Struggle (NYT article)
 
 https://www.nytimes.com/2022/04/05/science/education-learning-challenge.html
