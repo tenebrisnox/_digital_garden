@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/open/education/teach-to-the-top/"}
 ---
 
-
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
 
 Teach to the Top is the idea that teaching should ensure that the learning is genuinely challenging (and that all students are supported in reaching the top)
 
