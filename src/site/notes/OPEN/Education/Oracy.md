@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/open/education/oracy/"}
 ---
 
-
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
 ### Value of Oracy
 
 Oracy is an entitlement and enables children's agency in finding their voice
