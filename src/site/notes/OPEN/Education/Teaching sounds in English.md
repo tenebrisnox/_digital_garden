@@ -3,7 +3,7 @@
 ---
 
 
-
+![|150](https://www.garyhollingsbee.com/images/dg1seed.png)
 
 assonance - repeating sounds close together - "I tried to light the fire"
 
