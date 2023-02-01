@@ -25,12 +25,11 @@
 ### STATES OF THE NOTES
 I've borrowed an idea from [Topobon](https://hermitage.utsob.me) using icons to visually represent the growth-state of each note:
 
-
 | **Seedling** | **Sapling** | **Tree** |
 | :----: | :----: | :----: |
 | ![](https://www.garyhollingsbee.com/images/dg1seed.png) | ![](https://www.garyhollingsbee.com/images/dg2plant.png) | ![](https://www.garyhollingsbee.com/images/dg3tree.png) |
+| 🌱 | 🍃 |🌲 |
 |  Thoughts/notes barely started. | Notes that have a substantial amount of content but need much more work/thought. | Coherent thoughts/expressions that are - more or less - complete.
-
 
 #### Latest thing I'm thinking about:
 
