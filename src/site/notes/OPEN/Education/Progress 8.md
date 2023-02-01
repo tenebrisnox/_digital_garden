@@ -7,6 +7,7 @@
 
 ## from Twitter
 
+
 [Thread from Andy Byers, Headteacher Framwellgate School Durham](https://twitter.com/framheadteacher/status/1584258411449180160?s=12&t=zQgLn69w7OZvCe-NFPQsDA):
 
 > P8 is a bit dodgy, isn’t it? The regional figures illuminate a systemic problem. Is anyone suggesting that schools in the NE are significantly worse than schools in London?... As a profession, we need to stop playing the P8 game. We need to make these successes scalable; we can control how we teach, but the profession must also speak out about the many other disparities which lead to differences in P8; long-term disadvantage, funding, recruitment.
