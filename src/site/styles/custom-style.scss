@@ -7,7 +7,7 @@ a.internal-link[data-link-state$="2" i]::before{
 }
 a.internal-link[data-link-state$="3" i]::before{
     content: "●●● "
-}
+        
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
