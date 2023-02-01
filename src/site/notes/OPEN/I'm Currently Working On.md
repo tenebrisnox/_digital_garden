@@ -20,7 +20,7 @@
 </div></div>
 
 
-*31st January 2023 Update: after a few deployment issues (I maintain this small digital garden using Obsidian, Github and Netlify), it's now working again.*
+*31st January 2023 Update: after a few deployment issues (I maintain this small digital garden using Obsidian, Github and Netlify), it's now working again. It's not working how I want, though.*
 
 ### STATES OF THE NOTES
 I've borrowed an idea from [Topobon](https://hermitage.utsob.me) using icons to visually represent the growth-state of each note:
