@@ -35,7 +35,7 @@ I've borrowed an idea from [Topobon](https://hermitage.utsob.me) using icons to 
 
 - [[OPEN/Education/Progress 8\|Progress 8]]
 - [[OPEN/Education/Oracy\|Oracy]]
- 
+   
 #### What I'm revisiting:
 
 - [[OPEN/Education/Making Every English Lesson Count\|Making Every English Lesson Count]]
